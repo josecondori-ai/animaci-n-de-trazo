@@ -1,5 +1,10 @@
 # 🖌️ SVG Text Animation / Animación de Texto SVG
 
+
+https://github.com/user-attachments/assets/3e95170f-a47b-4353-a9f6-07be56431f86
+
+
+
 Este proyecto demuestra una animación de texto SVG utilizando CSS para crear un efecto de "trazo", donde el contorno del texto se dibuja en diferentes colores y se repite infinitamente.
 
 This project demonstrates an SVG text animation using CSS to create a "stroke" effect, where the text outline is drawn in different colors and loops infinitely.
@@ -38,11 +43,14 @@ Clona este repositorio y abre el archivo `index.html` en cualquier navegador web
 Clone this repository and open the `index.html` file in any web browser to see the animation in action.
 
 ```bash
-git clone https://github.com/yourusername/svg-text-animation.git
-cd svg-text-animation
-open index.html
+git clone https://github.com/yourusername/animaci-n-de-trazo
 
-✏️ Personalización / Customization
+.git
+cd animaci-n-de-trazo
+open index.html
+```
+
+## ✏️ Personalización / Customization
 
 Puedes modificar las siguientes propiedades para cambiar la animación:
 
@@ -52,12 +60,12 @@ You can modify the following properties to change the animation:
     Velocidad / Speed: Cambia la duración de la animación en @keyframes stroke (el valor predeterminado es 6 segundos).
     Texto / Text: Modifica el texto SVG en el HTML para mostrar contenido diferente.
 
-🧰 Tecnologías Utilizadas / Technologies Used
+## 🧰 Tecnologías Utilizadas / Technologies Used
 
     HTML: Estructura básica / Basic structure.
     CSS: Animación y estilo del texto SVG / Animation and styling of SVG text.
 
-🤝 Contribuciones / Contributing
+## 🤝 Contribuciones / Contributing
 
 ¡Siéntete libre de hacer un fork de este proyecto y enviar pull requests para mejoras o nuevas funcionalidades!
 
