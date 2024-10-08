@@ -21,7 +21,7 @@ La animación dibuja continuamente el contorno del texto en cinco colores difere
 
 The animation continuously draws the outline of the text in five different colors, with each line having its own animation delay for a dynamic effect.
 
-![SVG Text Animation Preview](https://josecondori-ai.github.io/animaci-n-de-trazo/)
+![SVG Text Animation Preview] (https://josecondori-ai.github.io/animaci-n-de-trazo/)
 
 ## ⚙️ ¿Cómo Funciona? / How It Works
 
